@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Matheus Nathan!</h1>
 
 <p align="center">
-  🚀 Aspiring Developer | 🎓 Computer Science Student | 💡 Tech Explorer
+  🚀 Aspiring Developer | 🎓 Student | 💡 Tech Explorer
 </p>
 
 ---
