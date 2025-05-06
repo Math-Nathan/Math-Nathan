@@ -8,7 +8,6 @@
 
 ### 👨‍💻 Sobre mim
 
-- 
 - 🌱 Estudando: **[Java, Html, Css, JavaScript, SQL, Python]**
 - 🎯 Interesses: **Backend • Frontend**
 - 📫 Como me encontrar: **[mateusnazareth@outlook.com]**
