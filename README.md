@@ -45,4 +45,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" s
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Math-Nathan&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Nathan&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Math-Nathan&theme=tokyonight&area=true" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- [🔗 More coming soon...](https://github.com/Math-Nathan)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
+</p>
